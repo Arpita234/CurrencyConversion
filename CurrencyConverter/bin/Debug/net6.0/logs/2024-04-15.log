@@ -1,0 +1,29 @@
+2024-04-15 00:25:33.9758 INFO Now listening on: https://localhost:7062 
+2024-04-15 00:25:35.9020 INFO Now listening on: http://localhost:5186 
+2024-04-15 00:25:36.1357 INFO Application started. Press Ctrl+C to shut down. 
+2024-04-15 00:25:36.1357 INFO Hosting environment: Development 
+2024-04-15 00:25:36.1357 INFO Content root path: C:\Users\Admin\source\repos\CurrencyConverter\ 
+2024-04-15 00:26:43.2234 INFO Requesting Currency Conversion 
+2024-04-15 01:04:50.6426 INFO Now listening on: https://localhost:7062 
+2024-04-15 01:04:53.1973 INFO Now listening on: http://localhost:5186 
+2024-04-15 01:04:53.2377 INFO Application started. Press Ctrl+C to shut down. 
+2024-04-15 01:04:53.2377 INFO Hosting environment: Development 
+2024-04-15 01:04:53.2377 INFO Content root path: C:\Users\Admin\source\repos\CurrencyConverter\ 
+2024-04-15 01:05:46.3506 INFO Requesting Currency Conversion 
+2024-04-15 01:05:46.8276 INFO Successful Currency Conversion : SourceCurrency:USD, TargetCurrency:INR, Amount:12, ConvertedAmount:1200 
+2024-04-15 01:06:17.5030 INFO Requesting Currency Conversion 
+2024-04-15 01:06:17.5030 INFO Successful Currency Conversion : SourceCurrency:USD, TargetCurrency:EUR, Amount:67, ConvertedAmount:56.95 
+2024-04-15 01:06:27.4351 ERROR Invalid currency. Supported currency types are USD, INR, EUR : SourceCurrency:USD, TargetCurrency:ABC 
+2024-04-15 01:06:40.9888 ERROR Invalid currency. Supported currency types are USD, INR, EUR : SourceCurrency:YUT, TargetCurrency:ABC 
+2024-04-15 06:40:40.9264 INFO Now listening on: https://localhost:7062 
+2024-04-15 06:40:42.8882 INFO Now listening on: http://localhost:5186 
+2024-04-15 06:40:43.0645 INFO Application started. Press Ctrl+C to shut down. 
+2024-04-15 06:40:43.0645 INFO Hosting environment: Development 
+2024-04-15 06:40:43.0645 INFO Content root path: C:\Users\Admin\source\repos\CurrencyConverter\ 
+2024-04-15 07:10:56.2062 INFO Now listening on: https://localhost:7062 
+2024-04-15 07:10:56.9092 INFO Now listening on: http://localhost:5186 
+2024-04-15 07:10:56.9403 INFO Application started. Press Ctrl+C to shut down. 
+2024-04-15 07:10:56.9403 INFO Hosting environment: Development 
+2024-04-15 07:10:56.9403 INFO Content root path: C:\Assignment\CurrencyConversion\CurrencyConverter\ 
+2024-04-15 07:15:54.1582 INFO Requesting Currency Conversion 
+2024-04-15 07:15:54.3217 INFO Successful Currency Conversion : SourceCurrency:USD, TargetCurrency:INR, Amount:100, ConvertedAmount:10000 
